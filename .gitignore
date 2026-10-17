@@ -1,0 +1,6 @@
+# Arquivos gerados pelo sistema operacional
+Thumbs.db
+.DS_Store
+
+# Variáveis de ambiente (credenciais)
+.env
