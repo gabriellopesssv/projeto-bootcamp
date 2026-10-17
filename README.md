@@ -118,6 +118,6 @@ docker run -d -p 8080:80 seu-usuario-dockerhub/pokeatlas-app:1.0
 
 ## Links
 
-- **Aplicação no ar (GitHub Pages):** https://gabriellopesssv.github.io/projeto/
-- **Repositório:** https://github.com/gabriellopesssv/projeto
+- **Aplicação no ar (GitHub Pages):** https://gabriellopesssv.github.io/projeto-bootcamp/
+- **Repositório:** https://github.com/gabriellopesssv/projeto-bootcamp
 - **Script SQL para setup do Supabase:** `supabase-setup.sql`
